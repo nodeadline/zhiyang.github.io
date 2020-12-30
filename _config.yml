@@ -125,13 +125,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       }]
                     },
                     "model": [
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/33/model.2018.bls-winter.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/platelet-2/model.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/xiaomai/xiaomai.model.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/mashiro/seifuku.model.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/Violet/14.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/Kobayaxi/Kobayaxi.model.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/mikoto/mikoto.model.json",
                       "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/uiharu/uiharu.model.json"]
                   });'
               ></script>
@@ -220,7 +213,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
+              img: https://i.loli.net/2020/12/30/zdYaWXgVxc2vTL6.jpg # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
@@ -369,7 +362,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     document.getElementById("run_time_hour"),
                     document.getElementById("run_time_minute"),
                     document.getElementById("run_time_second"),
-                    "10/04/2017 11:03:56")// 这是我第一篇CSDN博客的时间
+                    "10/04/2019 11:03:56")// 这是我第一篇CSDN博客的时间
                   </script>
                 </div>
               - | # 不蒜子页面统计，看不懂可不改
@@ -396,13 +389,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     src='https://cdn.jsdelivr.net/npm/busuanzi@2.3.0'
                     async='async'
                   ></script>
-                </div>
-              - | # 觉得我的主题好用的话，让更多的人知道它吧！
-                <div>
-                  <i class="fas fa-thumbs-up fa-fw"></i>
-                  <a href="https://jekyll-theme-WuK.wu-kan.cn">
-                    jekyll-theme-WuK
-                  </a>
                 </div>
               - | # Copyright声明
                 <div>
