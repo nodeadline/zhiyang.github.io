@@ -25,7 +25,7 @@
 
 Dalian University of Technology, Guangzhou
 
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021(expected)
+- Bachelor of Computer Science, Sept. 2017 - Jul. 2021(expected)
   - Knowledge Graph
   - Image classification
 
