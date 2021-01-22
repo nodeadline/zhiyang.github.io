@@ -400,7 +400,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - | # Copyright声明
                 <div>
                   <i class="fas fa-copyright fa-fw"></i>
-                  2017-2020 wangzhiyang
+                  2019-2020 wangzhiyang
                 </div>
 
             wordcount: # 全站字数统计
