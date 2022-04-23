@@ -23,7 +23,7 @@
 
 <!-- .slide vertical=true -->
 
-Dalian University of Technology, Guangzhou
+Dalian University of Technology, dalian
 
 - Bachelor of Computer Science, Sept. 2017 - Jul. 2021(expected)
   - Knowledge Graph
